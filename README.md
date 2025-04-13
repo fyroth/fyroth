@@ -34,6 +34,11 @@ I am beginner teenager developer from Russia. Love programming and music!
 ### Databases
 <p>
   <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-rgb(0, 59, 87).svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+### Brokers and cache
+<p>
   <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-rgb(255, 68, 56)?logo=redis&logoColor=white"></a>
 </p>
 
