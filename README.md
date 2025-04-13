@@ -4,7 +4,7 @@
 
   <p>
     <h1>
-      <a href="tg://resolve?domain=truecoffee">
+      <a href="https://t.me/truecoffee">
         <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width=30>
       </a>
       <a href="mailto:thefyroth@proton.me">
@@ -19,7 +19,7 @@ I am beginner teenager developer from Russia. Love programming and music!
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" width=25> Something other:
 - #️⃣ Right now I'm focused on C# and am actively learning it
-- 💬 I am a moderator of the IT Telegram community “[👨‍💻 Блэд Программист](tg://resolve?domain=bn_coder)”
+- 💬 I am a moderator of the IT Telegram community «[👨‍💻 Блэд Программист](https://t.me/bn_coder)»
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width=25> Here's what I know:
